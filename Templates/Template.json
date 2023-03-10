@@ -1,0 +1,22 @@
+{
+  "name": "CHANGEME",
+  "dataColors": [ "#439ED8", "#0871B4", "#2288CB", "#68B3E4", "#92CBF0", "#C7E6FA", "#FFA500", "#79C75B", "#E8D62E", "#C0433A", "#A600FF" ],
+  "tableAccent": "#0871B4",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "image": {
+              "name": "Wallpaper",
+              "scaling": "Fill",
+              "url": "data:image/png;base64,IMGINSERT"
+            },
+            "transparency": 0
+            }
+          ]
+        }
+      }
+    }
+}
+
